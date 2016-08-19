@@ -1,6 +1,6 @@
 *** Searcher ***
 
-Simple demo of BING API usage
+Simple demo of BING API usage with Swift
 
 do not forget set valid api key in BingSearchProvider.swift
 

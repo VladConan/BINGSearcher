@@ -19,6 +19,7 @@
 		D466DAAB1D2E82C50085F3A3 /* BingSearchProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = D466DAAA1D2E82C50085F3A3 /* BingSearchProvider.swift */; };
 		D466DAAD1D2EE6BD0085F3A3 /* BingSearchDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D466DAAC1D2EE6BD0085F3A3 /* BingSearchDataModel.swift */; };
 		D4928D001D671E75001A02BE /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D4928CFF1D671E75001A02BE /* README.md */; };
+		D4928D021D67270B001A02BE /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D4928D011D67270B001A02BE /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		D466DAAA1D2E82C50085F3A3 /* BingSearchProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BingSearchProvider.swift; sourceTree = "<group>"; };
 		D466DAAC1D2EE6BD0085F3A3 /* BingSearchDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BingSearchDataModel.swift; sourceTree = "<group>"; };
 		D4928CFF1D671E75001A02BE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D4928D011D67270B001A02BE /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		C05B19AD1D2DA43B00F03CEE /* searcher */ = {
 			isa = PBXGroup;
 			children = (
+				D4928D011D67270B001A02BE /* LICENSE */,
 				D4928CFF1D671E75001A02BE /* README.md */,
 				C05B19AE1D2DA43B00F03CEE /* AppDelegate.swift */,
 				C05B19B01D2DA43B00F03CEE /* ViewController.swift */,
@@ -246,6 +249,7 @@
 			files = (
 				C05B19B91D2DA43B00F03CEE /* LaunchScreen.storyboard in Resources */,
 				C05B19B61D2DA43B00F03CEE /* Assets.xcassets in Resources */,
+				D4928D021D67270B001A02BE /* LICENSE in Resources */,
 				C05B19B41D2DA43B00F03CEE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
